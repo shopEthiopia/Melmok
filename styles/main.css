@@ -9,7 +9,12 @@ a{
   background-color: black;
   padding: 2px;
   border-radius: 20px;
-  float: right;
+  position: absotute;
+  top: 2px;
+  right: 5px;
+}
+.shop{
+  right: 71px;
 }
 header{
   display: grid;
