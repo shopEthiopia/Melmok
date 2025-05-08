@@ -9,5 +9,17 @@ header{
   font-size: 25px;
 }
 strong{
-
+  color: red;
+}
+b{
+  color: #5900e4;
+  text-align:center;
+}
+footer{
+  background-color: #333;
+  padding: 4px;
+  position: absolute;
+  left:0;
+  right:0;
+  bottom:0;
 }
