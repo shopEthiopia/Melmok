@@ -8,11 +8,16 @@ a{
   color: white;
   background-color: black;
   padding: 2px;
+  border-radius: 20px;
+  float: right;
 }
 header{
   display: grid;
   grid-template-columns: repeat(2,1fr);
   font-size: 25px;
+}
+header div{
+  width: 100%;
 }
 strong{
   color: red;
