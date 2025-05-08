@@ -26,3 +26,26 @@ header {
   grid-template-columns: repeat(2, 1fr);
   font-size: 25px;
 }
+
+header div {
+  width: 100%;
+}
+
+strong {
+  color: red;
+}
+
+b {
+  color: #5900e4;
+  display: block; /* Ensures text-align works */
+  text-align: center;
+}
+
+footer {
+  background-color: #333;
+  padding: 4px;
+  position: absolute; /* Now it moves with content */
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
