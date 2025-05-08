@@ -1,0 +1,13 @@
+body{
+  margin: 10px;
+  font-family: arial,sans-serif;
+  font-size: 18px;
+}
+header{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  font-size: 25px;
+}
+strong{
+
+}
