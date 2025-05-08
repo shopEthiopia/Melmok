@@ -3,6 +3,12 @@ body{
   font-family: arial,sans-serif;
   font-size: 18px;
 }
+a{
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  padding: 2px;
+}
 header{
   display: grid;
   grid-template-columns: repeat(2,1fr);
